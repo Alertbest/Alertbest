@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Alertbest
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to master the art of turning raw data into useful information 
-- 📫 How to reach me at alaotosin3@gmail.com
+- 👋 Hi there,
+I'm Alao Oluwatosin, I am an aspiring data analyst with a love for turning information into data and bring insight out of data which can be used for data driven decisions. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alertbest)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-Alertbest/Alertbest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
