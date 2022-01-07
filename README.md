@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Alao Oluwatosin
 #### Aspiring Data Analyst
 
-I am an aspiring data analyst with a love for turning information into data and bring insight out of data which can be used for data driven decisions. 
+I am an aspiring data analyst with a love for turning information into data and bringing insight out of data which can be used for data driven decisions. 
 
 Skills: MS Excel, Google Spreadsheet / MySql, BigQuery / Tableau 
 
