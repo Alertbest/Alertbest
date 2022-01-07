@@ -1,7 +1,7 @@
+![Aspiring Data Analyst](https://github.com/Alertbest/Alertbest/blob/main/Untitled%20design.png)
 
 ### Hi there 👋, my name is Alao Oluwatosin
 #### Aspiring Data Analyst
-![Aspiring Data Analyst](https://github.com/Alertbest/Alertbest/blob/main/Untitled%20design.png)
 
 I am an aspiring data analyst with a love for turning information into data and bring insight out of data which can be used for data driven decisions. 
 
