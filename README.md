@@ -5,7 +5,9 @@
 
 I am an aspiring data analyst with a love for turning information into data and bringing insight out of data which can be used for data driven decisions. 
 
-## Skills:  MS Excel, Google Spreadsheet / MySql, BigQuery / Tableau 
+## Skills: 
+MS Excel, Google Spreadsheet / MySql, BigQuery / Tableau
+
 
  
 - 📫 How to reach me: alaotosin3@gmail.com 
