@@ -5,21 +5,30 @@
 
 I am an aspiring data analyst with a love for turning information into data and bringing insight out of data which can be used for data driven decisions. 
 
-## Skills: 
-MS Excel, Google Spreadsheet / MySql, BigQuery / Tableau
+### Skills: 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
 
 
  
 - 📫 How to reach me: alaotosin3@gmail.com 
 
-# Contact Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alertbest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oluwatosin-alao007/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tosign4u)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alertbest&show_icons=true)  
+### Contact Me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alertbest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oluwatosin-alao007/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tosign4u)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://gmail.com/alaotosin3)  
 
 
 
-![Profile views](https://gpvc.arturio.dev/Alertbest)  
+
+### Profile visit:
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=alertbest.alertbest&left_color=green&right_color=red)
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alertbest&show_icons=true&theme=merko)  
+
+
+
+    
+  
 
 
 
