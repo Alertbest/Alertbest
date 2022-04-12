@@ -3,7 +3,7 @@
 ### Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, My name is Alao Oluwatosin
 
 
-I am an aspiring data analyst with a love for turning information into data and bringing insight out of data which can be used for data driven decisions. 
+I am a data analyst with a love for turning information into data and bringing insight out of data which can be used for data driven decisions. 
 
 ### Skills: 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
